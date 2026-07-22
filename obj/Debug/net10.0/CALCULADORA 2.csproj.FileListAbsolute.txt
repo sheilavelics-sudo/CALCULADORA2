@@ -1,0 +1,14 @@
+C:\Users\Seila\Desktop\CALCULADORA 2\bin\Debug\net10.0\CALCULADORA 2.exe
+C:\Users\Seila\Desktop\CALCULADORA 2\bin\Debug\net10.0\CALCULADORA 2.deps.json
+C:\Users\Seila\Desktop\CALCULADORA 2\bin\Debug\net10.0\CALCULADORA 2.runtimeconfig.json
+C:\Users\Seila\Desktop\CALCULADORA 2\bin\Debug\net10.0\CALCULADORA 2.dll
+C:\Users\Seila\Desktop\CALCULADORA 2\bin\Debug\net10.0\CALCULADORA 2.pdb
+C:\Users\Seila\Desktop\CALCULADORA 2\obj\Debug\net10.0\CALCULADORA 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seila\Desktop\CALCULADORA 2\obj\Debug\net10.0\CALCULADORA 2.AssemblyInfoInputs.cache
+C:\Users\Seila\Desktop\CALCULADORA 2\obj\Debug\net10.0\CALCULADORA 2.AssemblyInfo.cs
+C:\Users\Seila\Desktop\CALCULADORA 2\obj\Debug\net10.0\CALCULADORA 2.csproj.CoreCompileInputs.cache
+C:\Users\Seila\Desktop\CALCULADORA 2\obj\Debug\net10.0\CALCULADORA 2.dll
+C:\Users\Seila\Desktop\CALCULADORA 2\obj\Debug\net10.0\refint\CALCULADORA 2.dll
+C:\Users\Seila\Desktop\CALCULADORA 2\obj\Debug\net10.0\CALCULADORA 2.pdb
+C:\Users\Seila\Desktop\CALCULADORA 2\obj\Debug\net10.0\CALCULADORA 2.genruntimeconfig.cache
+C:\Users\Seila\Desktop\CALCULADORA 2\obj\Debug\net10.0\ref\CALCULADORA 2.dll
