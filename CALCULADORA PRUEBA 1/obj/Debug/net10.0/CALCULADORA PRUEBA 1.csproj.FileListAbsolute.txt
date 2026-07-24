@@ -1,0 +1,14 @@
+C:\Users\Seila\Desktop\CALCULADORA PRUEBA 1\obj\Debug\net10.0\CALCULADORA PRUEBA 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seila\Desktop\CALCULADORA PRUEBA 1\obj\Debug\net10.0\CALCULADORA PRUEBA 1.AssemblyInfoInputs.cache
+C:\Users\Seila\Desktop\CALCULADORA PRUEBA 1\obj\Debug\net10.0\CALCULADORA PRUEBA 1.AssemblyInfo.cs
+C:\Users\Seila\Desktop\CALCULADORA PRUEBA 1\obj\Debug\net10.0\CALCULADORA PRUEBA 1.csproj.CoreCompileInputs.cache
+C:\Users\Seila\Desktop\CALCULADORA PRUEBA 1\bin\Debug\net10.0\CALCULADORA PRUEBA 1.exe
+C:\Users\Seila\Desktop\CALCULADORA PRUEBA 1\bin\Debug\net10.0\CALCULADORA PRUEBA 1.deps.json
+C:\Users\Seila\Desktop\CALCULADORA PRUEBA 1\bin\Debug\net10.0\CALCULADORA PRUEBA 1.runtimeconfig.json
+C:\Users\Seila\Desktop\CALCULADORA PRUEBA 1\bin\Debug\net10.0\CALCULADORA PRUEBA 1.dll
+C:\Users\Seila\Desktop\CALCULADORA PRUEBA 1\bin\Debug\net10.0\CALCULADORA PRUEBA 1.pdb
+C:\Users\Seila\Desktop\CALCULADORA PRUEBA 1\obj\Debug\net10.0\CALCULADORA PRUEBA 1.dll
+C:\Users\Seila\Desktop\CALCULADORA PRUEBA 1\obj\Debug\net10.0\refint\CALCULADORA PRUEBA 1.dll
+C:\Users\Seila\Desktop\CALCULADORA PRUEBA 1\obj\Debug\net10.0\CALCULADORA PRUEBA 1.pdb
+C:\Users\Seila\Desktop\CALCULADORA PRUEBA 1\obj\Debug\net10.0\CALCULADORA PRUEBA 1.genruntimeconfig.cache
+C:\Users\Seila\Desktop\CALCULADORA PRUEBA 1\obj\Debug\net10.0\ref\CALCULADORA PRUEBA 1.dll
